@@ -51,7 +51,4 @@ This project was developed to reinforce my JavaScript fundamentals, especially f
 ![image](https://github.com/user-attachments/assets/f127bf08-4ff7-485c-98f4-c8891f7d8153)
 
 
-
-
-
 ![image](https://github.com/user-attachments/assets/88a487a4-44ba-48d7-becf-8579e0a5d7cd)
