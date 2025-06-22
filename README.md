@@ -41,3 +41,14 @@ This project was developed to reinforce my JavaScript fundamentals, especially f
 ✅ Practiced clean code principles (like DRY with ternary)
 
 ✅ Enhanced logical thinking through game flow development
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/0b68f0cd-3c0d-45ae-8c34-3b7df43284f0)
+
+![image](https://github.com/user-attachments/assets/be434f1e-20c7-4151-99e9-a4ac83eaa5e1)
+
+![image](https://github.com/user-attachments/assets/dc847673-1e36-4909-a085-177d6474c9a6)
+
+
+![image](https://github.com/user-attachments/assets/88a487a4-44ba-48d7-becf-8579e0a5d7cd)
