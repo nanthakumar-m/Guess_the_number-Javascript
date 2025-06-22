@@ -27,7 +27,7 @@ This project was developed to reinforce my JavaScript fundamentals, especially f
 
 ✅ "Play Again" button resets game state cleanly
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained  / Concepts Practiced
 
 
 ✅ DOM Selection and Event Binding using addEventListener()
